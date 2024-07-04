@@ -1,2 +1,8 @@
-# Side Projects
-A fun place to share my personal projects in order to learn everyday
+# Calculator
+A GUI interfaced scientific calculator that can elaborate its results by rewriting the answer in a more visually pleasing way.
+
+- Powers in base ten 
+- Approximation
+- Square Root
+- Errors handling
+- Operators being x instead of * and so on
