@@ -5,4 +5,5 @@ A GUI scientific calculator that can elaborate its results by rewriting the answ
 - Approximation
 - Square Root
 - Errors handling
+- Buttons and keyboard compatibility
 - Operators being x instead of * and so on
